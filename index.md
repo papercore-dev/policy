@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# PaperCore 이용 약관
+### 홈
+당신의 개인정보에 관심을 가지고, 확인해주시는 사용자분들께 감사드립니다.<br>
+저희는 개인정보와 보안 유지를 위해서 노력하고 있습니다.<br>
+## 면책 조항
+이 내용을 읽지 않음으로서 발생하는 모든 문제들의 책임은 당신에게 있습니다.<br>
+<a href="https://policies.google.com/privacy">→ 면책 조항 읽기</a>
 
-You can use the [editor on GitHub](https://github.com/redevunlink/policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 개인정보처리방침
+PaperCore가 수집하는 개인정보와 그의 목적을 알아보세요.<br>
+<a href="https://policies.google.com/privacy">→ 개인정보처리방침 읽기</a>
+  
+## 이용 약관
+PaperCore 서비스를 사용함으로서 동의하는 내용입니다.<br>
+<a href="https://policies.google.com/privacy">→ 이용 약관 읽기</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 제3자 서비스
+PaperCore가 제작하지 않은 외부 서비스의 이용 약관과 개인정보 처리방침입니다.<br>
+<a href="https://policies.google.com/privacy">→ 이용 약관 읽기</a>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/redevunlink/policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 오픈소스 라이선스
+<a href="https://policies.google.com/privacy">→ 이용 약관 읽기</a>
